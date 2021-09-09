@@ -26,6 +26,12 @@ For packer.nvim,
 use 'rinx/dps-dpresence'
 ```
 
+Commands
+---
+
+- `:DPresenceConnect`: Enable Discord Rich Presence.
+- `:DPresenceDisconnect`: Disable it.
+
 See also
 ---
 
