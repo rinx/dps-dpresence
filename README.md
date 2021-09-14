@@ -29,8 +29,8 @@ use 'rinx/dps-dpresence'
 Commands
 ---
 
-- `:DPresenceConnect`: Enable Discord Rich Presence.
-- `:DPresenceDisconnect`: Disable it.
+- `:DpresenceConnect`: Enable Discord Rich Presence.
+- `:DpresenceDisconnect`: Disable it.
 
 See also
 ---
