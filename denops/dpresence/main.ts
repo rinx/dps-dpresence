@@ -32,7 +32,6 @@ export async function main(denops: Denops): Promise<void> {
       );
     },
     async update(): Promise<void> {
-      console.log("update dpresence")
       const filetype = (await options.get(denops, "filetype")) || "unknown";
 
       await client?.setActivity({
